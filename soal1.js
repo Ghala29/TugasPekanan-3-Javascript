@@ -10,5 +10,5 @@ if (!isNaN(number) && number >= 0) {
     console.log("Tidak bisa input bilangan ganjil"); 
   }
 } else { // jika inputan salah
-  console.log("Input salah");
+  console.log("Tidak Boleh Input Angka Minus/Huruf");
 }
